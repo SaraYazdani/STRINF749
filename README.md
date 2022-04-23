@@ -8,3 +8,10 @@ To run locally:
 4. Run this application ./gradlew bootRun
 
 [Link to Presentation](https://usherbrooke-my.sharepoint.com/:p:/g/personal/yazs3601_usherbrooke_ca/EdsCbGmyYBxCmm0z76kTtjkBrcBQ4QWDDPmI8MxNbLzZuw)
+
+
+
+## RESOURCES:
+https://www.geeksforgeeks.org/project-idea-collaborative-editor-framework-real-time/
+
+Customizable Collaborative Editor Relying on treeOPT Algorithm: http://citeseer.ist.psu.edu/viewdoc/download?doi=10.1.1.70.9273&rep=rep1&type=pdf
